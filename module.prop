@@ -1,6 +1,6 @@
 id=xposed
 name=Xposed Framework
-version=v87.1
+version=v87.1r1
 versionCode=1
 author=rovo89, ahrion, zackptg5
 description=Xposed Framework by rovo89, modified by wanam. Contains unity installer that will dynamically install proper xposed version for all devices supported by official xposed framework

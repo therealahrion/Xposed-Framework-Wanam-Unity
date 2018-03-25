@@ -7,7 +7,7 @@
 * All root solutions (requires init.d support if not using magisk or supersu. Try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
 
 ## Change Log
-### v87.1 - 3.18.2018
+### v87.1r1 - 3.18.2018
 * Initial rerelease
 
 ## Source Code
