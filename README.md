@@ -7,7 +7,7 @@
 * All root solutions (requires init.d support if not using magisk or supersu. Try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
 
 ## Change Log
-### v87.1r9 - 8.xx.2018
+### v87.1r9 - 8.24.2018
 * Unity v1.6 update
 
 ### v87.1r8 - 7.17.2018
