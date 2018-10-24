@@ -9,6 +9,7 @@
 ## Change Log
 ### v87.1r13 - 10.23.2018
 * Unity v1.7.2 update
+* Updated apk to 10.19.18 release
 
 ### v87.1r12 - 9.20.2018
 * Unity v1.7.1 update
