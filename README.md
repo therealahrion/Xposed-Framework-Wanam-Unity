@@ -8,7 +8,7 @@
 
 ## Change Log
 ### v87.1r14 - 12.9.2018
-* Unity v1.8.1 update
+* Unity v1.8.2 update
 
 ### v87.1r13 - 10.23.2018
 * Unity v1.7.2 update
