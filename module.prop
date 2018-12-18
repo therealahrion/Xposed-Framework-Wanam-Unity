@@ -1,7 +1,7 @@
 id=xposedwanam
 name=Xposed Framework
-version=v87.1r14
-versionCode=15
+version=v87.1r15
+versionCode=16
 author=rovo89, ahrion, zackptg5
 description=Xposed Framework by rovo89, modified by wanam. Contains unity installer that will dynamically install proper xposed version for all devices supported by official xposed framework and material apk by DVDandroid
-minMagisk=18000
+minMagisk=1530
