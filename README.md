@@ -7,6 +7,9 @@
 * All root solutions (requires init.d support if not using magisk or supersu. Try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
 
 ## Change Log
+### v87.1r21 - 1.16.2019
+* Forgot to move apk back to priv-app (needed for unity 3.2)
+
 ### v87.1r20 - 1.15.2019
 * Unity v3.2 update
 
